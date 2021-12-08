@@ -8,7 +8,7 @@
 - ⚡ Curiosidade:  Amo ensinar outras pessoas, sou super curiosa e determinada!
 
 
-<img src="https://tenor.com/view/business-cat-working-cat-boss-angry-gif-13655998"/>
+<img src="https://tenor.com/view/business-cat-working-cat-boss-angry-gif-13655998" width="100" height="100"/>
 
 
 ### Ferramentas e Tecnologias
