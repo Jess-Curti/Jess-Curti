@@ -25,12 +25,6 @@
 
 ![Snake animation](https://github.com/Jess-Curti/Jess-Curti/blob/output/github-contribution-grid-snake.svg)
 
-<div>
-<a href="https://github.com/Jess-Curti">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jess-Curti&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jess-Curti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 <p align="center">
 <a href="https://github.com/Jess-Curti">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jess-Curti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
