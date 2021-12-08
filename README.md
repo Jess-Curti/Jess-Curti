@@ -4,8 +4,6 @@
 - 🏫 Desenvolvedora em formação pela Generation Brasil
 - 💻 Atualmente estou aprendendo Java, Scrum, Habilidades interpessoais
 - 🔬 Bacharel em Biomedicina
-- 📲 WhatsApp: (11) 95922-2497
-- 📧 Email: jessica.m.curti@gmail.com
 - 😄 Pronomes: Ela/Dela
 - ⚡ Curiosidade:  Amo ensinar outras pessoas, sou super curiosa e determinada!
 
@@ -16,3 +14,9 @@
 
 ### Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+
+### Contatos
+<div>
+<a href="https://www.linkedin.com/in/jessicacurti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "jessica.m.curti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
