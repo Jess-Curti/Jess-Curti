@@ -11,10 +11,6 @@
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="500">
 </p>
 
-<p align="center">
-  <div class="tenor-gif-embed" data-postid="13655998" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/business-cat-working-cat-boss-angry-gif-13655998">Business Cat Working GIF</a>from <a href="https://tenor.com/search/business+cat-gifs">Business Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</p>
-
 ### 🖥️ Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>
 
