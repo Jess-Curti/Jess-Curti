@@ -1,4 +1,4 @@
-## Olá Devs! Sou a Jessica Curti, mas pode me chamar de Jess!
+## Olá Devs! Sou a Jessica Curti, mas podem me chamar de Jess!
 ### Bem vinde ao meu perfil GitHub
 
 - 🏫 Desenvolvedora em formação pela Generation Brasil
