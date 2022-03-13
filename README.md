@@ -1,9 +1,9 @@
-## Olá Devs! Sou a Jessica Curti, mas podem me chamar de Jess!
+## Ooii! Sou a Jessica Curti, mas podem me chamar de Jess!
 ### Bem vinde ao meu perfil GitHub
 
-- 🏫 Desenvolvedora em formação pela Generation Brasil
-- 💻 Atualmente estou aprendendo Java, Scrum, Habilidades interpessoais
-- 🔬 Bacharel em Biomedicina
+- 🏫 Desenvolvedora Full Stack pela Generation Brasil
+- 🔬 Bacharel em Biomedicina pela São Camilo
+- 💻 Especialista em Informática em Saúde pela UNIFESP
 - 💃 Pronomes: Ela/Dela
 - ⚡ Curiosidade:  Amo ensinar outras pessoas, sou super curiosa e determinada!
 
@@ -12,15 +12,12 @@
 </p>
 
 ### 🖥️ Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>     <img src="https://user-images.githubusercontent.com/94869328/158079067-efb1052c-4055-4ecd-bf2d-0d399feb8d67.png" width="40" height="40"/>     <img src="https://user-images.githubusercontent.com/94869328/158078587-207b7390-b031-49db-81c9-720872be58d0.png" width="40" height="40"/>     <img src="https://user-images.githubusercontent.com/94869328/158078990-f71d3c25-1d80-4a25-96f4-5bdac9574ea4.png" width="40" height="40"/>
 
-### Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
 
 ### Contatos
 <div>
-<a href="https://www.linkedin.com/in/jessicacurti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href = "mailto:jessica.m.curti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://linktr.ee/jessicacurti" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%23?style=for-the-badge&logo=linktree" target="_blank"></a>   
 </div>
 
 ![Snake animation](https://github.com/Jess-Curti/Jess-Curti/blob/output/github-contribution-grid-snake.svg)
